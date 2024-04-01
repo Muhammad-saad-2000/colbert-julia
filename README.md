@@ -1,4 +1,4 @@
-# colbert-julia
+# ColBERT-Julia
 
 ## Note
 - Please run the following command in the same folder of the project to download ColBERT weights:
